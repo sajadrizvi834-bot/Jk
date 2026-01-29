@@ -1,0 +1,8 @@
+{
+  "name": "JK Property - Real Estate Management SaaS",
+  "description": "A professional landing page and AI-powered assistant for JK Property, a real estate management app designed for property dealers, agents, and builders.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
